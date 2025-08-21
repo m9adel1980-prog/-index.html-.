@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>تدريب أدوات الاستفهام</title>
+  <style>
+    body { font-family: 'Arial', sans-serif; direction: rtl; background-color: #f9f9f9; padding: 20px; }
+    h1 { color: #2c3e50; }
+    .question { margin-bottom: 20px; background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 0 5px #ccc; }
+    .options { margin-top: 10px; }
+    .answer { color: green; font-weight: bold; }
+    .explanation { color: #555; margin-top: 5px; }
+  </style>
+</head>
+<body>
+  <h1>🧠 تدريب على أدوات الاستفهام</h1>
+
+  <div class="question">
+    <strong>ما هي أداة الاستفهام المستخدمة للسؤال عن الوقت؟</strong>
+    <div class="options">متى ✅ | أين | كيف | لماذا</div>
+    <div class="explanation">تُستخدم "متى" للسؤال عن الزمن، مثل: متى ستذهب إلى المدرسة؟</div>
+  </div>
+
+  <div class="question">
+    <strong>ما هي أداة الاستفهام المناسبة للسؤال عن المكان؟</strong>
+    <div class="options">ماذا | أين ✅ | من | كم</div>
+    <div class="explanation">تُستخدم "أين" للسؤال عن الموقع، مثل: أين تسكن؟</div>
+  </div>
+
+  <div class="question">
+    <strong>ما هي أداة الاستفهام التي تُستخدم للسؤال عن السبب؟</strong>
+    <div class="options">كيف | لماذا ✅ | متى | من</div>
+    <div class="explanation">تُستخدم "لماذا" لمعرفة السبب، مثل: لماذا تأخرت عن الحصة؟</div>
+  </div>
+
+  <div class="question">
+    <strong>ما هي أداة الاستفهام التي تُستخدم للسؤال عن العدد؟</strong>
+    <div class="options">كم ✅ | من | ماذا | أين</div>
+    <div class="explanation">تُستخدم "كم" للسؤال عن الكمية، مثل: كم كتابًا قرأت؟</div>
+  </div>
+
+  <div class="question">
+    <strong>ما هي أداة الاستفهام التي تُستخدم للسؤال عن الشخص؟</strong>
+    <div class="options">من ✅ | ماذا | كيف | متى</div>
+    <div class="explanation">تُستخدم "من" للسؤال عن الأشخاص، مثل: من زارك اليوم؟</div>
+  </div>
+
+</body>
+</html>
